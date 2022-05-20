@@ -1,0 +1,8 @@
+# 应用名称
+spring:
+  application:
+    name: snowFake
+
+server:
+  port: 10086
+
